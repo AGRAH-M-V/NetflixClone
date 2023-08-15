@@ -12,7 +12,7 @@ This repository contains a clone of the official Netflix website created using H
 
 ## Demo
 
-Check out the live demo of the Netflix Official Website Clone [here](https://your-username.github.io/netflix-clone).
+Check out the live demo of the Netflix Official Website Clone [here](https://AGRAH-M-V.github.io/NetflixClone).
 
 ## Installation
 
