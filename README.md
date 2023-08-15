@@ -17,7 +17,7 @@ Check out the live demo of the Netflix Official Website Clone [here](https://you
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
-2. Navigate to the project directory: `cd netflix-clone`
+2. Navigate to the project directory: `cd NetflixClone`
 
 ## Usage
 
