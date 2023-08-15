@@ -16,7 +16,7 @@ Check out the live demo of the Netflix Official Website Clone [here](https://you
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
+1. Clone the repository: `https://github.com/AGRAH-M-V/NetflixClone.git`
 2. Navigate to the project directory: `cd NetflixClone`
 
 ## Usage
@@ -31,8 +31,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 - Original Netflix design and UI are the property of Netflix, Inc.
 - This project is for educational purposes and does not imply any affiliation with or endorsement by Netflix, Inc.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
